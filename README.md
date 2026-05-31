@@ -1,12 +1,12 @@
 # homebrew-tag
 
-This formula provides [aykamko/tag](https://github.com/aykamko/tag).
+This formula provides [jeffreyc/tag](https://github.com/jeffreyc/tag).
 
 # How to install
 
 Run the following:
 
 ```
-brew tap aykamko/tag
+brew tap jeffreyc/tag-ag
 brew install tag-ag
 ```
